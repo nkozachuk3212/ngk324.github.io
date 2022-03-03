@@ -78,7 +78,7 @@ body {
   background-position: center center;
   background-size: cover;
   opacity: 1;
-  position: relative;
+  position: fixed;
   top: 0px;
   left: 0px;
   border: 1px solid rgba(0,0,0,1);
@@ -845,7 +845,7 @@ body {
   height: 101px;
   background: rgba(67,32,66,0.8999999761581421);
   opacity: 1;
-  position: absolute;
+  position: fixed;
   top: 0px;
   left: 0px;
   overflow: hidden;
@@ -853,7 +853,7 @@ body {
 .v108_32 {
   width: 130px;
   color: rgba(255,255,255,1);
-  position: absolute;
+  position: fixed;
   top: 35px;
   left: 1269px;
   font-family: Galvji;
@@ -870,7 +870,7 @@ body {
   background-position: center center;
   background-size: cover;
   opacity: 1;
-  position: absolute;
+  position: fixed;
   top: 9px;
   left: 654px;
   overflow: hidden;
